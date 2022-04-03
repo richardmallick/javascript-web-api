@@ -1,0 +1,8 @@
+Some Web API of JavaScript
+==============================
+* Forms API
+* History API
+* Storage API
+* Worker API
+* Fetch API
+* Geolocation
